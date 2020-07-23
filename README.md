@@ -9,7 +9,7 @@ In this repository add some projects that builded in a CMS in different cases:
 # Personal web page (With Wix)
 
 In this project using Wix (Virtual Store) for the builded web e-commerce site.
-![Screenshot](docs/screenOne.png)
+![](docs/screenOne.png)
 
 [¡Vistit e-commerce site!](https://ulisesgomez08live.wixsite.com/mitienda)
 
